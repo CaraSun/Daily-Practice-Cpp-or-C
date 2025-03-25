@@ -13,5 +13,9 @@ int main() {
     scanf("%x",&i);
     printf("you have entered %#x(%d)\n",i,i);
 
+
+    char c[5] = {'a','b','\0','c','\0'};
+    printf("c: %s",c);
+
     return 0;
 }
