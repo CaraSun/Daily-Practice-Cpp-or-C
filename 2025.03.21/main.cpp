@@ -12,3 +12,6 @@ int main() {
     fun(array);
     return 0;
 }
+
+
+//在windows 64位中，long int 是 4位
